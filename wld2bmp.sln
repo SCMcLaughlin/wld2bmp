@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wld2bmp", "wld2bmp.vcproj", "{088CDFF4-CCA1-4FDB-A14D-5880C375AA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088CDFF4-CCA1-4FDB-A14D-5880C375AA62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{088CDFF4-CCA1-4FDB-A14D-5880C375AA62}.Debug|Win32.Build.0 = Debug|Win32
+		{088CDFF4-CCA1-4FDB-A14D-5880C375AA62}.Release|Win32.ActiveCfg = Release|Win32
+		{088CDFF4-CCA1-4FDB-A14D-5880C375AA62}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
